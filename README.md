@@ -1,6 +1,6 @@
 # Ping-Pong-Python
 A classic Ping Pong game implemented in Python using the turtle module. (single player)
-A classic Ping Pong (Pong) game implemented in Python using the turtle module. Control your paddle to hit the ball, compete against the computer or a friend, and try to score points!
+A classic Ping Pong (Pong) game implemented in Python using the turtle module. Control your paddle to hit the ball, and try to score points!
 
 # Features
 
@@ -10,23 +10,18 @@ Simple and responsive controls
 
 Score tracking
 
-Smooth ball movement and bouncing physics
+Smooth ball movement 
 
-Fun, colorful graphics with a classic Pong feel
+Fun and basic graphics
 
 # Controls
 
 Player 1:
 
-Move up: W
+Move left: left key
 
-Move down: S
+Move right: right key
 
-Player 2:
-
-Move up: Up Arrow
-
-Move down: Down Arrow
 
 # Requirements
 
