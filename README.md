@@ -38,3 +38,4 @@ python ping_pong.py
 
 
 Enjoy playing!
+<img width="790" height="628" alt="image" src="https://github.com/user-attachments/assets/9f1ebd64-936b-4e36-bc0d-fbcbb7d2ce50" />
